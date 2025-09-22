@@ -1,5 +1,5 @@
 import java.util.*;
-0
+
 class SalaryException extends Exception {
     public SalaryException(String message) {
         super(message);
